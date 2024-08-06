@@ -1,0 +1,5 @@
+fastapi[standard]
+polars
+sentence-transformers
+scikit-learn==1.2.2
+numpy
